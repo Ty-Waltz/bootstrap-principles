@@ -1,0 +1,8 @@
+.custom-hover {
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.custom-hover:hover {
+    background-color: #007bff; 
+    transform: scale(1.05);
+}
